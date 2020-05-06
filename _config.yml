@@ -16,6 +16,8 @@ baseurl:          ""
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
+  
+remote_theme : mmistakes/minimal-mistakes
 
 paginate:         5
 
