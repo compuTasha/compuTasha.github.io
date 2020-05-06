@@ -97,8 +97,8 @@ author:
   name             : "Tasha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "computa villain 🤨"
-  location         : "My Home"
-  email            :
+  location         : "South Korea"
+  email            : "mijookim.tasha@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
