@@ -3,3 +3,9 @@ main:
       url: /categories/
     - title: "알고리즘"
       url: /categories/Algorithms/
+    - title: "논문리뷰"
+      url: /categories/Paper/
+    - title: "AI"
+      url: /categories/AI/
+    - title: "수학"
+      url: /categories/Math/
