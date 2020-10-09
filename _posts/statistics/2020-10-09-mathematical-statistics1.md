@@ -10,11 +10,6 @@ tags:
 last_modified_at: 2020-10-09T08:06:00-05:00
 ---
 
-# 수리통계학 ch 1-1
-
-복습: No
-유형: 강의노트
-작성일시: 2020년 9월 22일 오후 9:58
 
 # Chapter 1 Probability and Distribution
 
